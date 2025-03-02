@@ -230,7 +230,6 @@ class AboutContent extends StatelessWidget {
     String year,
   ) {
     return NeuCard(
-      height: 180,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
