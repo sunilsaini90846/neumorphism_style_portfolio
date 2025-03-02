@@ -152,7 +152,6 @@ class ExperienceContent extends StatelessWidget {
   }) {
     return NeuCard(
       width: isDesktop ? 700 : double.infinity,
-      height: 300,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
