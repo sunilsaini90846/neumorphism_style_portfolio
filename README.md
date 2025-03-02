@@ -1,6 +1,6 @@
-# neomorphism_style_portfolio
+# neomorphism_style_portfolio - https://your-portfolio-profile.web.app/
 
-A new Flutter project.
+This document outlines the features, technologies, and optimizations required to build a high-performance portfolio website using Flutter Web. The goal is to achieve native-like performance with the latest advancements in Flutter and a modern Neumorphism UI design.
 
 ## Getting Started
 
