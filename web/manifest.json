@@ -1,0 +1,35 @@
+{
+    "name": "Sunil Kumar | Flutter Developer",
+    "short_name": "Sunil Portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f0f0f3",
+    "theme_color": "#f0f0f3",
+    "description": "Sunil Kumar - Flutter Developer Portfolio. Showcasing 6+ years of experience in mobile app development with Flutter and iOS.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

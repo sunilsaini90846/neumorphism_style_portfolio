@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Sunil Kumar - Flutter Developer Portfolio. Showcasing 6+ years of experience in mobile app development with Flutter and iOS.">
+  <meta name="keywords" content="Flutter, Dart, Mobile Development, iOS, Swift, Portfolio, Neumorphism, UI/UX, Web Development">
+  <meta name="author" content="Sunil Kumar">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://your-portfolio-url.com/">
+  <meta property="og:title" content="Sunil Kumar | Flutter Developer">
+  <meta property="og:description" content="Experienced Flutter Developer with 6+ years in mobile app development.">
+  <meta property="og:image" content="https://your-portfolio-url.com/icons/Icon-512.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://your-portfolio-url.com/">
+  <meta property="twitter:title" content="Sunil Kumar | Flutter Developer">
+  <meta property="twitter:description" content="Experienced Flutter Developer with 6+ years in mobile app development.">
+  <meta property="twitter:image" content="https://your-portfolio-url.com/icons/Icon-512.png">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Sunil Kumar | Flutter Developer">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Sunil Kumar | Flutter Developer</title>
+  <link rel="manifest" href="manifest.json">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <style>
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      width: 100vw;
+      background-color: #f0f0f3;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 9999;
+    }
+    .loader {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: linear-gradient(145deg, #f0f0f3, #cacaca);
+      box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      animation: pulse 1.5s infinite ease-in-out;
+    }
+    .loader:after {
+      content: '';
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: #f0f0f3;
+      box-shadow: inset 5px 5px 10px #bebebe, inset -5px -5px 10px #ffffff;
+    }
+    @keyframes pulse {
+      0% {
+        transform: scale(0.95);
+        box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+      }
+      70% {
+        transform: scale(1);
+        box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+      }
+      100% {
+        transform: scale(0.95);
+        box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="loading">
+    <div class="loader"></div>
+  </div>
+  
+  <script>
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        document.querySelector('.loading').style.display = 'none';
+      }, 2000);
+    });
+  </script>
+  
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

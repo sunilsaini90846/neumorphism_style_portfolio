@@ -1,0 +1,119 @@
+S U N I L Flutter Developer
++919084614505
+sunilsaini90846@gmail.com
+linkedin.com/in/sunilsainideveloper
+Muzaffarnagar, Uttar Pradesh, India
+K U M A R
+S U M M A R Y
+Mobile Application Developer with 6 years of experience specializing in Flutter and iOS app development. Proficient in building high-
+performance, cross-platform applications using Flutter and developing native iOS applications with Swift. Adept at solving complex
+technical challenges, optimizing app performance, and implementing modern UI/UX principles. Passionate about staying at the forefront
+of mobile development trends and delivering scalable, user-centric applications that drive business success.
+T E C H N I C A L S K I L L S
+Flutter App Development
+Dart Programming
+Swift
+State Management
+Getx
+Flutter Bloc
+Material Design
+Responsive Design
+App Performance Optimization
+Flutter Packages and Plugins
+Android and iOS Development
+RESTful APIs
+Firebase Integration
+Code Refactoring
+Git and Version Control
+Agile Development
+SDLC
+SOLID Principles
+Clean architecture
+MVC
+MVVM
+Stripe Payment
+Postman
+Zendesk
+Mixpanel
+P O S I T I O N & R E S P O N S I B I L I T I E S
+Spire Innovations, Inc
+Senior Software Engineer (Flutter)
+Skills: Flutter, Dart, Spring Boot, Python, Django Rest Framework, Microsoft
+Intune.
+Techahead
+Senior Software Engineer
+Developed one cross-platform app from scratch.
+Skills : Dart, Flutter, Postman, Flutter web sites.
+Conducted thorough team code reviews.
+Worked on a live app for code refactoring & Hide the sensitive data of the app .
+Change project architecture. Upgrade flutter and dependencies for the project.
+Ficode Software Solutions Private Limited
+Software Engineer (Flutter & iOS)
+Developed 8 high-performing mobile apps from the ground up using the Flutter framework and 3 native
+iPhone and iPad apps using Swift.
+Upgraded legacy projects to the latest Flutter versions.
+Excelled in complex problem-solving scenarios.
+Proficient in project documentation and analysis.
+Recognized as the "Employee of the Month" during this role for outstanding contributions.
+Actively engaged in Low-Level Design (LLD) and High Level Design (HLD).
+October 2023 - March 2024
+October 2023 - March 2024
+March 2019 - September 2023
+W O R K E X P E R I E N C E
+Flutter Framework Proficiency:
+Mastery of the Flutter framework, including widgets, animations, and state management.
+Dart Programming Language:
+Strong command over Dart, the programming language used in Flutter development.
+Cross-Platform Development:
+Developed over 11 cross-platform mobile applications using Flutter.
+Worked on 6 iOS applications using Swift.
+Responsive UI Design:
+Proficient in designing responsive user interfaces for Android, iOS, and tablet devices using the Flutter SDK and iOS SDK.
+Firebase Expertise:
+Extensive experience with Firebase services, including authentication, real-time database, storage, Firestore database, crash reporting,
+and Firebase Cloud Messaging (FCM).
+Managed push notifications in iOS native and Flutter for both iOS and Android.
+Version Control:
+Managed codebase using Bitbucket and GitLab for version control.
+Development Tools:
+Utilized Xcode for iOS development, Android Studio, and Visual Studio Code for Flutter app development.
+Product Experience:
+Contributed to the development of IoT-based applications, including "Bubll," "IBOS," and "Workman."
+Payment Gateway:
+Integrated and worked with the Stripe payment gateway.
+Integrated Apple Pay and Google Pay.
+Web Services:
+Proficient in working with REST-based web services for data communication.
+App Submission:
+Proficiently managed the end-to-end process of submitting applications to both the App Store and Google Play Store, ensuring a
+seamless distribution process.
+Multi-Language and Multi-Theme Functionality:
+Implemented multi-language and multi-theme functionality in mobile applications.
+State Management:
+Used state management solutions like Provider, BLoC, and GetX for efficient state management in Flutter apps.
+Implemented Flutter clean architecture.
+Local Data Storage:
+Utilized data storage solutions such as Sqflite, floor, and Hive for local data storage.
+Service and Product-Based Applications:
+Experience in developing both service-based and product-based mobile applications.
+Flutter Plugin Development:
+Developed custom plugins for enhancing functionality in Flutter applications.
+Modular Architecture:
+Designed and implemented modular architecture for multi-feature and multi-module Flutter applications.
+Apple Wallet Card Research:
+Conducted research on integrating and utilizing Apple Wallet for card-related functionalities.
+Analytics:
+Experience in integrated Firebase Analytics and Mixpanel.
+E D U C A T I O N
+B.Tech (Computer science)
+Shri Ram Group of College, Muzaffarnagar
+Secondary school
+D.A.V Inter College Muzaffarnagar
+High School
+J.I.C Lachhera
+2015-2019
+2015
+2013
+L A N G U A G E S
+English
+Hindi 
